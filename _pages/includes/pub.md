@@ -24,7 +24,7 @@ SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhanceme
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'>
+<div class='paper-box'><div class='paper-box-image'></div>
 <div class='paper-box-text' markdown="1">
 
 CARNet: Collaborative Adversarial Resilience for Robust Underwater Image Enhancement and Perception \\ 
