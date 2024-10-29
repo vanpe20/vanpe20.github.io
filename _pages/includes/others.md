@@ -9,5 +9,5 @@
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
 # 💻 Internships
-- *2024.10 - *, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai
+- *2024.10 - now*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai
 - *2024.2 - 2024.3*, [Li Auto.Inc](https://www.lixiang.com/#li), Beijing
