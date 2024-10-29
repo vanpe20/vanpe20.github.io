@@ -21,7 +21,7 @@ repository               : "vanpe20/vanpe20.github.io"
 
 # Site Author
 author:
-  name             : "Zeru Shi (任意)"
+  name             : "Zeru Shi (是泽儒)"
   avatar           : "images/avatar.png"
   bio              : 
   location         : "China"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : "zerushi77@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Zeru-Shi"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/vanpe20"
   google_plus      :
   keybase          :
   instagram        :
