@@ -32,6 +32,3 @@ Zengxi Zhang, **Zeru Shi**, Zhiying Jiang, Jinyuan Liu, Risheng Liu
 
 </div>
 </div>
-
-
-<!-- ## 👄 TalkingFace & Avatar -->
