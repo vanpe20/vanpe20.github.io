@@ -1,6 +1,7 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.10* I am working on issues related to 3D image generation in VLLM.
+- *2024.10* I am working on prompt optimization methods for LLMS under perturbations.
+- *2024.9* Please check our preprint about [LLM-based semantic file system](https://www.researchgate.net/publication/384257895_From_Commands_to_Prompts_LLM-based_Semantic_File_System_for_AIOS)！
+- *2024.9* I will be an official intern of Shanghai AI laboratory!
+- *2024.8* One paper was submitted to AAAI!
+- *2024.8*  One paper was submitted to TNNLS!
