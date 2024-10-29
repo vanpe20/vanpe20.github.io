@@ -8,4 +8,4 @@ In order to continue to pursue my academic career, I am looking for a Ph.D. posi
 
 Meanwhil, I've got a bunch of hobbies, likes soccer, traditional Chinese calligraphy, traveling and mixing drinks. By the way I am a big Manchester United fan.  
 
-My CV is here: [**Zeru's CV**](../includes/file/resume.pdf)
+My CV is here: [**Zeru's CV**](./_pages/includes/file/resume.pdf)
