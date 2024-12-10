@@ -7,7 +7,7 @@
 
 
 Robustness-aware Automatic Prompt Optimization \\
-**Zeru Shi**\*, Zhenting Wang, Yongye Su, Weidi Luo, Xiaoyang Chen, Fan Yang, Yongfeng Zhang 
+**Zeru Shi**, Zhenting Wang, Yongye Su, Weidi Luo, Xiaoyang Chen, Fan Yang, Yongfeng Zhang 
 
 <!-- [[**Arxiv**]](https://arxiv.org/pdf/2410.11843), [[**GitHub**]](https://github.com/agiresearch/AIOS-LSFS) -->
 </div>
