@@ -9,7 +9,7 @@
 Robustness-aware Automatic Prompt Optimization \\
 **Zeru Shi**, Zhenting Wang, Yongye Su, Weidi Luo, Xiaoyang Chen, Fan Yang, Yongfeng Zhang 
 
-[[**Arxiv**]](https://arxiv.org/abs/2412.18196), [[**GitHub**]](https://github.com/jxzhangjhu/Awesome-LLM-Prompt-Optimization)
+[[**Arxiv**]](https://arxiv.org/abs/2412.18196), [[**GitHub**]](https://github.com/vanpe20/BATprompt)
 </div>
 </div>
 
