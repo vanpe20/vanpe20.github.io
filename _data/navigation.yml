@@ -5,6 +5,9 @@ main:
 
   - title: "News"
     url: "/#-news"
+  
+  - title: "Publication"
+    url: "/#-publication"
 
   - title: "Pre-Print"
     url: "/#-pre-print"
