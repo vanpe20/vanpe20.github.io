@@ -1,7 +1,7 @@
 # 📷 Publication
 <!-- ## 🎙 Speech Synthesis -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 From Commands to Prompts: LLM-based Semantic File System for AIOS \\
