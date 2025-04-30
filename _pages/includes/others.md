@@ -1,7 +1,7 @@
 
 # 📖 Educations
 - *2021.09 - 2025.06*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/dlut.jpg" width="20pt"></a> Dalian University of Technology, ISE, Liaoning, Undergraduate
-- *2025.09*, <a href="https://www.rutgers.edu/"><img class="svg" src="/images/rutgers.jpeg" width="20pt"></a> Rutgers University, Computer Science, New Brunswick, Ph.D.
+- *2025.09 - Present*, <a href="https://www.rutgers.edu/"><img class="svg" src="/images/rutgers.jpeg" width="20pt"></a> Rutgers University, Computer Science, New Brunswick, Ph.D.
 
 <!-- # 💬 Invited Talks
 - *2022.02*, Hosted MLNLP seminar \| [\[Video\]](https://www.bilibili.com/video/BV1wF411x7qh)
