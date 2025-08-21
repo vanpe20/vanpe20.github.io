@@ -1,6 +1,6 @@
 Hello, I am Zeru, a senior majoring in Software Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/) in ISE. I'm going to Rutgers University to pursue my PhD degree and I am honored to be guided by Prof.[**Ruixiang Tang**](https://www.ruixiangtang.net/). I will receive my BE degree in Software Engineering at Dalian University of Technology
 
-Before, I was an intern in [**Prof.Yongfeng Zhang**](https://yongfeng.me/)'s laboratory at Rutgers University.
+<!-- Before, I was an intern in [**Prof.Yongfeng Zhang**](https://yongfeng.me/)'s laboratory at Rutgers University. -->
 
 My research interests mainly focus on:
 -  **AI interpretability**: I hope that through the interpretability method of LLM, we can understand and analyze the reasons for the decisions made by LLM, and thus improve the performance of LLM in performing tasks.
