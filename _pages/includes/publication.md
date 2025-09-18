@@ -15,7 +15,7 @@ From Commands to Prompts: LLM-based Semantic File System for AIOS \\
 <div class='paper-box-text' markdown="1">
 
 SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhancement \\
-**Zeru Shi**, Zengxi Zhang, Zhiying Jiang, Ruizhe An, Jinyuan Liu
+**Zeru Shi**, Zengxi Zhang, Kemeng Cui, Ruizhe An, Jinyuan Liu, Zhiying Jiang
 
 [[**Arxiv**]](https://arxiv.org/abs/2412.06352)
 </div>
