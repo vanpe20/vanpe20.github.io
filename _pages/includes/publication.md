@@ -10,3 +10,13 @@ From Commands to Prompts: LLM-based Semantic File System for AIOS \\
 [[**Arxiv**]](https://arxiv.org/pdf/2410.11843), [[**GitHub**]](https://github.com/agiresearch/AIOS-LSFS)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT(IF=11.9)</div><img src='images/sefnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhancement \\
+**Zeru Shi**, Zengxi Zhang, Zhiying Jiang, Ruizhe An, Jinyuan Liu
+
+[[**Arxiv**]](https://arxiv.org/abs/2412.06352)
+</div>
+</div>
