@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.9* I have been invited to be a reviewer for ICLR 2026.
 - *2025.9* One paper has been accepted by **IEEE TCSVT(IF=11.1)**, thanks to my all collaborators!🎉🎉
 - *2025.8* One paper has been accepted by **EMNLP 2025(Main)**, thanks to my all collaborators!🎉🎉
 - *2025.3* I will join Rutgers University to pursue my Ph.D. degree! 🎉🎉
