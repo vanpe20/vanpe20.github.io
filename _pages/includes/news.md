@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.10* Please check out preprint about [**Meaningless Tokens, Meaningful Gains: How Activation Shifts Enhance LLM Reasoning**](https://arxiv.org/abs/2510.01032)
+- *2025.10* Please check our preprint about [**Meaningless Tokens, Meaningful Gains: How Activation Shifts Enhance LLM Reasoning**](https://arxiv.org/abs/2510.01032)
 - *2025.9* I have been invited to be a reviewer for ICLR 2026.
 - *2025.9* One paper has been accepted by **IEEE TCSVT(IF=11.1)**, thanks to my all collaborators!🎉🎉
 - *2025.8* One paper has been accepted by **EMNLP 2025(Main)**, thanks to my all collaborators!🎉🎉
