@@ -15,7 +15,7 @@
   <li><em>2025.09:</em> &nbsp; I have been invited to be a reviewer for ICLR 2026.</li>
   <li><em>2025.09:</em> &nbsp;🎉🎉 One paper has been accepted by <strong>IEEE TCSVT (IF=11.1)</strong>, thanks to my all collaborators!</li>
   <li><em>2025.08:</em> &nbsp;🎉🎉 One paper has been accepted by <strong>EMNLP 2025(Main)</strong>, thanks to my all collaborators!</li>
-  <li><em>2025.03:</em> &nbsp;🎉🎉 I will join <a href="https://www.cs.rutgers.edu/">CS@Rutgers University</a> as a PhD student in 2025 Fall, supervised by <a href="https://www.ruixiangtang.net/">Prof. Ryan Tang</a>!</li>
+  <li><em>2025.03:</em> &nbsp;🎉🎉 I will join <a href="https://www.cs.rutgers.edu/">Rutgers University</a> as a PhD student in 2025 Fall, supervised by <a href="https://www.ruixiangtang.net/">Prof. Ruixiang Tang</a>!</li>
   <li><em>2025.01:</em> &nbsp;🎉🎉 Our work <a href="https://arxiv.org/pdf/2410.11843" target="_blank" rel="noopener">
   <strong>From Commands to Prompts: LLM-based Semantic File System</strong>
 </a>is accepted by <strong>ICLR 2025</strong>, many thanks to my collaborators!</li>
