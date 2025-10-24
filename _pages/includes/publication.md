@@ -20,3 +20,14 @@ SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhanceme
 [[**Arxiv**]](https://arxiv.org/abs/2412.06352)
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2025 (Main)</div><img src='images/castle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Castle: Causal Cascade Updates in Relational Databases with Large Language Models \\
+Yongye Su, Yucheng Zhang, **Zeru Shi**, Bruno Ribeiro, Elisa Bertino
+
+[[**Arxiv**]](https://openreview.net/forum?id=EPMfuMGLxQ#discussion)
+</div>
+</div>
