@@ -13,6 +13,6 @@ Meanwhil, I've got a bunch of hobbies, likes soccer, traditional Chinese calligr
 My CV is here: [**Zeru's CV**](./_pages/includes/file/resume.pdf)
 
 
-<span style="color:red; font-size:22px; font-weight:bold;">
+<span style="color:darkred; font-size:18px; font-weight:bold;">
 I am always open to research collaborations. If you are interested in my previous work or would like to discuss potential ideas, please feel free to contact me.
 </span>
