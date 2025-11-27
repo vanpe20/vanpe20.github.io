@@ -9,6 +9,7 @@
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.10:</em> &nbsp;🎉🎉 I am honered to be selected as a <strong>Rutgers Climate and Energy Institute (RCEI) Fellowship</strong>. Thanks to my professor!</li>
   <li><em>2025.10:</em> &nbsp; Please check our preprint about <a href="https://arxiv.org/abs/2510.01032" target="_blank" rel="noopener">
   <strong>Meaningless Tokens, Meaningful Gains: How Activation Shifts Enhance LLM Reasoning</strong>
 </a> </li>
