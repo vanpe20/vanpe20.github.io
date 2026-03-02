@@ -1,4 +1,4 @@
-Hello, I am Zeru, a first year Ph.D. student in Rutgers University. I am honored to be guided by Prof.[**Ruixiang Tang**](https://www.ruixiangtang.net/). I will receive my BE degree in Software Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/)
+Hello, I am Zeru, a first year Ph.D. student in Computer Science at Rutgers University. I am honored to be guided by Prof.[**Ruixiang Tang**](https://www.ruixiangtang.net/). I will receive my BE degree in Software Engineering at [Dalian University of Technology](https://www.dlut.edu.cn/)
 
 <!-- Before, I was an intern in [**Prof.Yongfeng Zhang**](https://yongfeng.me/)'s laboratory at Rutgers University. -->
 
