@@ -23,8 +23,10 @@ redirect_from:
 
 {% include_relative includes/services.md %}
 
-<div style="transform: scale(0.7); transform-origin: top left;">
-  <script type="text/javascript" id="mapmyvisitors"
-    src="//mapmyvisitors.com/map.js?d=-Z__mhIf3gvUV0dQ-sO_gbOVPGBk5knglTwkGTdrozE&cl=ffffff&w=a">
-  </script>
+<div style="display: flex; justify-content: center;">
+  <div style="transform: scale(0.5); transform-origin: top center;">
+    <script type="text/javascript" id="mapmyvisitors"
+      src="//mapmyvisitors.com/map.js?d=-Z__mhIf3gvUV0dQ-sO_gbOVPGBk5knglTwkGTdrozE&cl=ffffff&w=a">
+    </script>
+  </div>
 </div>
