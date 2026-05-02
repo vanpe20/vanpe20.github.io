@@ -23,4 +23,4 @@ redirect_from:
 
 {% include_relative includes/services.md %}
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=8NEDsWcXmUY7h5UDb7NBqRBabkBJZsaS3XlkFcrAIAA"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-Z__mhIf3gvUV0dQ-sO_gbOVPGBk5knglTwkGTdrozE&cl=ffffff&w=a"></script>
