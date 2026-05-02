@@ -22,3 +22,5 @@ redirect_from:
 {% include_relative includes/others.md %}
 
 {% include_relative includes/services.md %}
+
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=8NEDsWcXmUY7h5UDb7NBqRBabkBJZsaS3XlkFcrAIAA"></script>
