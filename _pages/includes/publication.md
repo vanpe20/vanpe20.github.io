@@ -29,7 +29,7 @@
 
 **<span style="color: DarkSlateBlue; font-size: 18px;">From Commands to Prompts: LLM-based Semantic File System</span>**
 
-**\[<span style="color: #993333">ICLR 2025 </span>\]**
+**\[<span style="color: #993333">ICLR 2025</span>\]**
 
 **<span style="color: #5184B2">TL;DR:</span>** We propose a vector-based agent memory system that enables users to manage and interact with computer files through natural language, eliminating the need for traditional Linux commands.
 
