@@ -1,6 +1,17 @@
 # 📷 Publication
 <!-- ## 🎙 Speech Synthesis -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2026</div><img src='images/melayer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A Single Layer to Explain Them All: Understanding Massive Values in Large Language Models\\
+**Zeru Shi**, Zhenting Wang, Fan Yang, Qifan Wang, Ruixiang Tang
+
+[[**Project Page**]](https://vanpe20.github.io/ME-Layer.github.io/)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
