@@ -7,7 +7,7 @@
 A Single Layer to Explain Them All: Understanding Massive Values in Large Language Models\\
 **Zeru Shi**, Zhenting Wang, Fan Yang, Qifan Wang, Ruixiang Tang
 
-[[**Project Page**]](https://vanpe20.github.io/ME-Layer.github.io/)
+[[**Project Page**]](https://vanpe20.github.io/ME-Layer.github.io/), [[**Arxiv**]](), [[**GitHub**]](https://github.com/vanpe20/ME_Layer)
 </div>
 </div>
 
