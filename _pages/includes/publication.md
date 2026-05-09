@@ -6,7 +6,7 @@
 
 **<span style="color: DarkSlateBlue; font-size: 18px;">A Single Layer to Explain Them All: Understanding Massive Values in Large Language Models</span>**
 
-**\[<span style="color: #993333">The International Conference on Machine Learning(ICML), 2026</span>\]**
+**\[<span style="color: #993333">ICML 2026</span>\]**
 
 
 **Zeru Shi**, Zhenting Wang, Fan Yang, Qifan Wang, Ruixiang Tang
@@ -29,7 +29,7 @@
 
 **<span style="color: DarkSlateBlue; font-size: 18px;">From Commands to Prompts: LLM-based Semantic File System</span>**
 
-**\[<span style="color: #993333">The International Conference on Learning Representations(ICLR), 2025</span>\]**
+**\[<span style="color: #993333">ICLR 2025 </span>\]**
 
 **<span style="color: #5184B2">TL;DR:</span>** We propose a vector-based agent memory system that enables users to manage and interact with computer files through natural language, eliminating the need for traditional Linux commands.
 
@@ -47,7 +47,7 @@
 **<span style="color: DarkSlateBlue; font-size: 18px;">SeFENet: Robust Deep Homography Estimation via Semantic-Driven Feature Enhancement </span>**
 
 
-**\[<span style="color: #993333">IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), IF=11.1</span>\]**
+**\[<span style="color: #993333">IEEE TCSVT, IF=11.1</span>\]**
 
 **<span style="color: #5184B2">TL;DR:</span>** We design a meta-learning framework to improve the robustness and performance of homography estimation under challenging environments.
 
@@ -63,7 +63,7 @@
 
 **<span style="color: DarkSlateBlue; font-size: 18px;">Castle: Causal Cascade Updates in Relational Databases with Large Language Models </span>**
 
-**\[<span style="color: #993333">The Conference on Empirical Methods in Natural Language Processing (EMNLP Main), 2026</span>\]**
+**\[<span style="color: #993333">EMNLP 2026, Main</span>\]**
 
 Yongye Su, Yucheng Zhang, **Zeru Shi**, Bruno Ribeiro, Elisa Bertino
 
