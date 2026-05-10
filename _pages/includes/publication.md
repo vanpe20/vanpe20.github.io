@@ -63,7 +63,7 @@
 
 **<span style="color: DarkSlateBlue; font-size: 18px;">Castle: Causal Cascade Updates in Relational Databases with Large Language Models </span>**
 
-**\[<span style="color: #993333">EMNLP 2026, Main</span>\]**
+**\[<span style="color: #993333">EMNLP 2025, Main</span>\]**
 
 Yongye Su, Yucheng Zhang, **Zeru Shi**, Bruno Ribeiro, Elisa Bertino
 
