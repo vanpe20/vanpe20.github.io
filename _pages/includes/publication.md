@@ -35,8 +35,7 @@
 
 **Zeru Shi**\*, Kai Mei\*, Mingyu Jin, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yujie Ren, Zirui Liu, Mengnan Du, Dong Deng, Yongfeng Zhang 
 
-[[**Arxiv**]](https://arxiv.org/pdf/2410.11843)&nbsp;  
-[[**GitHub**]](https://github.com/agiresearch/AIOS-LSFS)
+[[**Arxiv**]](https://arxiv.org/pdf/2410.11843) [[**GitHub**]](https://github.com/agiresearch/AIOS-LSFS)
 
 </div>
 </div>
