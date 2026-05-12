@@ -15,7 +15,7 @@
 **<span style="color: #5184B2">TL;DR:</span>** We explored the actionable mechanistic interpretation of massive values in LLMs and propose a method to mitigate the massive activatons.
 
 [[**Project Page**]](https://vanpe20.github.io/ME-Layer.github.io/) &nbsp; 
-[[**Arxiv**]]()&nbsp; 
+[[**Arxiv**]](https://arxiv.org/pdf/2605.08504)&nbsp; 
 [[**GitHub**]](https://github.com/vanpe20/ME_Layer) 
 
 
