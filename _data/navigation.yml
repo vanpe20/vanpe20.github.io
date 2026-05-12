@@ -9,8 +9,8 @@ main:
   - title: "Publication"
     url: "/#-publication"
 
-  - title: "Pre-Print"
-    url: "/#-pre-print"
+  # - title: "Pre-Print"
+  #   url: "/#-pre-print"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

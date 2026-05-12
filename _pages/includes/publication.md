@@ -1,5 +1,53 @@
-# 📷 Publication
+# 📷 Selected Publication
 <!-- ## 🎙 Speech Synthesis -->
+## Agentic AI
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<span style="color: DarkSlateBlue; font-size: 18px;">From Commands to Prompts: LLM-based Semantic File System</span>**
+
+**\[<span style="color: #993333">ICLR 2025</span>\]**
+
+**<span style="color: #5184B2">TL;DR:</span>** We propose a vector-based agent memory system that enables users to manage and interact with computer files through natural language, eliminating the need for traditional Linux commands.
+
+**Zeru Shi**\*, Kai Mei\*, Mingyu Jin, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yujie Ren, Zirui Liu, Mengnan Du, Dong Deng, Yongfeng Zhang 
+
+[[**Arxiv**]](https://arxiv.org/pdf/2410.11843) [[**GitHub**]](https://github.com/agiresearch/AIOS-LSFS)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2025 (Main)</div><img src='images/castle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<span style="color: DarkSlateBlue; font-size: 18px;">Castle: Causal Cascade Updates in Relational Databases with Large Language Models </span>**
+
+**\[<span style="color: #993333">EMNLP 2025, Main</span>\]**
+
+Yongye Su, Yucheng Zhang, **Zeru Shi**, Bruno Ribeiro, Elisa Bertino
+
+[[**Arxiv**]](https://aclanthology.org/2025.emnlp-main.1700/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/agentforsight.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<span style="color: DarkSlateBlue; font-size: 18px;">Online Auditing for Early Failure Prediction in Multi-Agent Systems </span>**
+
+<!-- **\[<span style="color: #993333">EMNLP 2025, Main</span>\]** -->
+
+Boxuan Zhang \*, Jianing Zhu \*, **Zeru Shi**, Dongfang Liu, Ruixiang Tang
+
+[[**Arxiv**]](https://arxiv.org/abs/2605.08715)
+</div>
+
+
+
+## Post-training and Reasoning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2026</div><img src='images/melayer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -18,26 +66,34 @@
 [[**Arxiv**]](https://arxiv.org/pdf/2605.08504)&nbsp; 
 [[**GitHub**]](https://github.com/vanpe20/ME_Layer) 
 
-
-
-</div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/arm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<span style="color: DarkSlateBlue; font-size: 18px;">From Commands to Prompts: LLM-based Semantic File System</span>**
+**<span style="color: DarkSlateBlue; font-size: 18px;">Meaningless Tokens, Meaningful Gains: How Activation Shifts Enhance LLM Reasoning  </span>**
 
-**\[<span style="color: #993333">ICLR 2025</span>\]**
+**Zeru Shi**, Yingjia Wan, Zhenting Wang, Qifan Wang, Fan Yang, Elisa Kreiss, Ruixiang Tang
 
-**<span style="color: #5184B2">TL;DR:</span>** We propose a vector-based agent memory system that enables users to manage and interact with computer files through natural language, eliminating the need for traditional Linux commands.
-
-**Zeru Shi**\*, Kai Mei\*, Mingyu Jin, Yongye Su, Chaoji Zuo, Wenyue Hua, Wujiang Xu, Yujie Ren, Zirui Liu, Mengnan Du, Dong Deng, Yongfeng Zhang 
-
-[[**Arxiv**]](https://arxiv.org/pdf/2410.11843) [[**GitHub**]](https://github.com/agiresearch/AIOS-LSFS)
+[[**Arxiv**]](https://arxiv.org/abs/2510.01032), [[**GitHub**]](https://github.com/vanpe20/ARM-Meaningless-tokens)
+</div>
 
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/sieve.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<span style="color: DarkSlateBlue; font-size: 18px;">Improving Visual Reasoning with Iterative Evidence Refinement </span>**
+
+**Zeru Shi**\*, Kai Mei\*, Yihao Quan, Dimitris N. Metaxas, Ruixiang Tang
+
+[[**Arxiv**]](https://arxiv.org/pdf/2603.14117),
+</div>
+
+
+
+## Low-Level Computer Vision
+
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/sefnet.png' alt="sym" width="100%"></div></div>
@@ -54,18 +110,5 @@
 
 [[**Arxiv**]](https://arxiv.org/abs/2412.06352)
 </div>
-</div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP2025 (Main)</div><img src='images/castle.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**<span style="color: DarkSlateBlue; font-size: 18px;">Castle: Causal Cascade Updates in Relational Databases with Large Language Models </span>**
-
-**\[<span style="color: #993333">EMNLP 2025, Main</span>\]**
-
-Yongye Su, Yucheng Zhang, **Zeru Shi**, Bruno Ribeiro, Elisa Bertino
-
-[[**Arxiv**]](https://aclanthology.org/2025.emnlp-main.1700/)
-</div>
 </div>
