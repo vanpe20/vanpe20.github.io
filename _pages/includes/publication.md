@@ -1,6 +1,6 @@
 # 📷 Selected Publication
 
-<h2 style="margin-top: 24px; margin-bottom: 8px;">
+<h2 style="margin-top: 24px; margin-bottom: 2px;">
 Agentic AI
 </h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
@@ -46,8 +46,10 @@ Boxuan Zhang \*, Jianing Zhu \*, **Zeru Shi**, Dongfang Liu, Ruixiang Tang
 </div>
 
 
+<h2 style="margin-top: 24px; margin-bottom: 2px;">
+Post-training and Reasoning
+</h2>
 
-## Post-training and Reasoning
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML2026</div><img src='images/melayer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,9 +95,9 @@ Boxuan Zhang \*, Jianing Zhu \*, **Zeru Shi**, Dongfang Liu, Ruixiang Tang
 </div>
 
 
-
-## Low-Level Computer Vision
-
+<h2 style="margin-top: 24px; margin-bottom: 2px;">
+Low-Level Computer Vision
+</h2>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/sefnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
