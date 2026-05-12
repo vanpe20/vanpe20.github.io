@@ -1,7 +1,8 @@
 # 📷 Selected Publication
-<!-- ## 🎙 Speech Synthesis -->
-## Agentic AI
 
+<h2 style="margin-top: 24px; margin-bottom: 8px;">
+Agentic AI
+</h2>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

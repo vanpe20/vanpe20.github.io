@@ -15,7 +15,7 @@ redirect_from:
 
 {% include_relative includes/publication.md %}
 
-<!-- {% include_relative includes/pub.md %} -->
+{% include_relative includes/pub.md %}
 
 {% include_relative includes/honers.md %}
 
