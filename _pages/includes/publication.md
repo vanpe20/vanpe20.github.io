@@ -2,8 +2,6 @@
 <!-- ## 🎙 Speech Synthesis -->
 ## Agentic AI
 
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,6 +42,7 @@ Boxuan Zhang \*, Jianing Zhu \*, **Zeru Shi**, Dongfang Liu, Ruixiang Tang
 
 [[**Arxiv**]](https://arxiv.org/abs/2605.08715)
 </div>
+</div>
 
 
 
@@ -67,6 +66,7 @@ Boxuan Zhang \*, Jianing Zhu \*, **Zeru Shi**, Dongfang Liu, Ruixiang Tang
 [[**GitHub**]](https://github.com/vanpe20/ME_Layer) 
 
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/arm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,12 +89,12 @@ Boxuan Zhang \*, Jianing Zhu \*, **Zeru Shi**, Dongfang Liu, Ruixiang Tang
 
 [[**Arxiv**]](https://arxiv.org/pdf/2603.14117),
 </div>
+</div>
 
 
 
 ## Low-Level Computer Vision
 
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/sefnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
