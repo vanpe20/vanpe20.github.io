@@ -9,6 +9,8 @@
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+<li><em>2026.05:</em> &nbsp; Please check our preprint about multi-modality agent memory<a href="https://arxiv.org/abs/2605.15128" target="_blank" rel="noopener">
+  <strong>MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory</strong></li>
   <li><em>2026.05:</em> &nbsp;🎉🎉 Honored as Top Reviewer for ICML 2026.</li>
   <li><em>2026.04:</em> &nbsp;🎉🎉 One first author paper has been accepted by <strong>ICML 2026</strong>, thanks to my all collaborators!.</li>
   <li><em>2026.04:</em> &nbsp;🎉🎉 I will join NVIDIA as a research intern in 2026 summer. Welcome to reach out for collaboration and discussion.</li>

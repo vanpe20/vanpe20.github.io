@@ -1,8 +1,29 @@
 # 📷 Selected Publication
 
+(\* indicates **equal contribution**)
 <h2 style="margin-top: 24px; margin-bottom: 2px;">
 Agentic AI
 </h2>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<span style="color: DarkSlateBlue; font-size: 18px;">MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory</span>**
+
+<!-- **\[<span style="color: #993333">ICLR 2025</span>\]** -->
+
+**<span style="color: #5184B2">TL;DR:</span>** MemEye is a vision-centric long-term memory benchmark designed to evaluate how agents remember and reason over long-running image-grounded interactions. The benchmark focuses on assessing agents’ abilities to retain and utilize visual information across multi-session conversations, including memory of long-tail visual details, visual state updates, and evolving user-centric contexts.
+
+Minghao Guo\*, Qingyue Jiao\*,**Zeru Shi**\*, Yihao Quan, Boxuan Zhang, Danrui Li, Liwei Che, Wujiang Xu, Shilong Liu, Zirui Liu, Mubbasir Kapadia, Vladimir Pavlovic, Jiang Liu, Mengdi Wang, Yiyu Shi, Dimitris N. Metaxas, Ruixiang Tang
+
+[[**Project Page**]](https://minghokwok.github.io/MemEye/) &nbsp; 
+[[**Arxiv**]](https://arxiv.org/abs/2605.15128)&nbsp; 
+[[**GitHub**]](https://github.com/MinghoKwok/MemEye) 
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
