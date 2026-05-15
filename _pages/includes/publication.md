@@ -5,7 +5,7 @@
 <h2 style="margin-top: 24px; margin-bottom: 2px;">
 Agentic AI
 </h2>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/lsfs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/memeye.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<span style="color: DarkSlateBlue; font-size: 18px;">MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory</span>**
