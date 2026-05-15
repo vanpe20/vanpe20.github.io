@@ -1,6 +1,6 @@
 # 📷 Selected Publication
 
-<!-- (\* indicates **equal contribution**) -->
+(\* indicates **equal contribution**)
 
 <h2 style="margin-top: 24px; margin-bottom: 2px;">
 Agentic AI
