@@ -12,9 +12,9 @@ Agentic AI
 
 <!-- **\[<span style="color: #993333">ICLR 2025</span>\]** -->
 
-**<span style="color: #5184B2">TL;DR:</span>** MemEye is a vision-centric long-term memory benchmark designed to evaluate how agents remember and reason over long-running image-grounded interactions. The benchmark focuses on assessing agents’ abilities to retain and utilize visual information across multi-session conversations, including memory of long-tail visual details, visual state updates, and evolving user-centric contexts.
+**<span style="color: #5184B2">TL;DR:</span>** MemEye is a vision-centric long-term memory benchmark that evaluates agents’ ability to remember, update, and reason over visual information across long-running, multi-session image-grounded interactions.
 
-Minghao Guo\*, Qingyue Jiao\*,**Zeru Shi**\*, Yihao Quan, Boxuan Zhang, Danrui Li, Liwei Che, Wujiang Xu, Shilong Liu, Zirui Liu, Mubbasir Kapadia, Vladimir Pavlovic, Jiang Liu, Mengdi Wang, Yiyu Shi, Dimitris N. Metaxas, Ruixiang Tang
+Minghao Guo\*, Qingyue Jiao\*, **Zeru Shi**\*, Yihao Quan, Boxuan Zhang, Danrui Li, Liwei Che, Wujiang Xu, Shilong Liu, Zirui Liu, Mubbasir Kapadia, Vladimir Pavlovic, Jiang Liu, Mengdi Wang, Yiyu Shi, Dimitris N. Metaxas, Ruixiang Tang
 
 [[**Project Page**]](https://minghokwok.github.io/MemEye/) &nbsp; 
 [[**Arxiv**]](https://arxiv.org/abs/2605.15128)&nbsp; 

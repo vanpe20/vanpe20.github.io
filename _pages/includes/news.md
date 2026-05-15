@@ -9,7 +9,7 @@
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-<li><em>2026.05:</em> &nbsp; Please check our preprint about multi-modality agent memory
+<li><em>2026.05:</em> &nbsp; Please check our preprint about multimodal agent memory
 <a href="https://arxiv.org/abs/2605.15128" target="_blank" rel="noopener">
 <strong>MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory</strong>
 </a>
