@@ -14,7 +14,7 @@ Agentic AI
 
 **<span style="color: #5184B2">TL;DR:</span>** MemEye is a vision-centric long-term memory benchmark that evaluates agents’ ability to remember, update, and reason over visual information across long-running, multi-session image-grounded interactions.
 
-Minghao Guo\*, Qingyue Jiao\*, **Zeru Shi**\*, Yihao Quan, Boxuan Zhang, Danrui Li, Liwei Che, Wujiang Xu, Shilong Liu, Zirui Liu, Mubbasir Kapadia, Vladimir Pavlovic, Jiang Liu, Mengdi Wang, Yiyu Shi, Dimitris N. Metaxas, Ruixiang Tang
+**Zeru Shi**\*, Minghao Guo\*, Qingyue Jiao\*, Yihao Quan, Boxuan Zhang, Danrui Li, Liwei Che, Wujiang Xu, Shilong Liu, Zirui Liu, Mubbasir Kapadia, Vladimir Pavlovic, Jiang Liu, Mengdi Wang, Yiyu Shi, Dimitris N. Metaxas, Ruixiang Tang
 
 [[**Project Page**]](https://minghokwok.github.io/MemEye/) &nbsp; 
 [[**Arxiv**]](https://arxiv.org/abs/2605.15128)&nbsp; 
