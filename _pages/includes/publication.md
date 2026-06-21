@@ -135,5 +135,21 @@ Low-Level Computer Vision
 
 [[**Arxiv**]](https://arxiv.org/abs/2412.06352)
 </div>
+</div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/sefnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<span style="color: DarkSlateBlue; font-size: 18px;">CARNet: Collaborative Adversarial Resilience for Robust Underwater Image Enhancement and Perception </span>**
+
+
+**\[<span style="color: #993333">IEEE TCSVT, IF=11.1</span>\]**
+
+<!-- **<span style="color: #5184B2">TL;DR:</span>** We design a meta-learning framework to improve the robustness and performance of homography estimation under challenging environments. -->
+
+Zengxi Zhang, **Zeru Shi**, Jinyuan Liu, Zhiying Jiang
+
+[[**Arxiv**]](https://arxiv.org/abs/2309.01102)
+</div>
 </div>

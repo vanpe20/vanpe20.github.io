@@ -9,7 +9,8 @@
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2026.04:</em> &nbsp;🎉🎉 One paper has been accepted by <strong>ECCV 2026</strong>.</li>
+  <li><em>2026.06:</em> &nbsp;🎉🎉 One paper has been accepted by <strong>IEEE TCSVT (IF=11.1)</strong>.
+  <li><em>2026.06:</em> &nbsp;🎉🎉 One paper has been accepted by <strong>ECCV 2026</strong>.</li>
   <li><em>2026.05:</em> &nbsp; Please check our preprint about multimodal agent memory
   <a href="https://arxiv.org/abs/2605.15128" target="_blank" rel="noopener">
   <strong>MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory</strong>
