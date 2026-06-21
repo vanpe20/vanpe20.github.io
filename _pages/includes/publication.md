@@ -138,7 +138,7 @@ Low-Level Computer Vision
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/sefnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT</div><img src='images/carnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<span style="color: DarkSlateBlue; font-size: 18px;">CARNet: Collaborative Adversarial Resilience for Robust Underwater Image Enhancement and Perception </span>**
